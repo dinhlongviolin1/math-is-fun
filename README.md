@@ -1,7 +1,7 @@
 # math-is-fun
 2015 Java Swing Project - Kid's Educational Game - Math Is Fun
 
-[Youtube Project Preview](https://youtu.be/6uNLq0GzE_U)
+[Youtube Project Preview](https://youtu.be/Wz7yRkjV1Og)
 
 ## Overview
 This project is very special to me. This marks the turning point of my development career. This Project has inspired a 15-year-old me to pursue the path of a developer.
